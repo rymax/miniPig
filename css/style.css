@@ -1,0 +1,89 @@
+body {
+	background-color: #6395D6;
+	font-family: 'Lato', Helvetica, Arial;
+	text-align: center;
+	color:white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+a:link {
+	color: #fd8e45;
+}
+a:visited {
+	color: #fd8e45;
+}
+a:hover {
+	color: #ff6500;
+}
+a:active {
+	color: #ff6500;
+}
+
+#textcontainer {
+	height:320px;
+	background-color: gray;
+	border: 1px solid black;
+	}
+
+#montytext {
+	text-align: left;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	background-color: gray;
+	border: 1px solid black;
+
+}
+
+#montytext p {
+	font-size: 18px;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
+
+p {
+	font-size: 24px;
+}
+
+#home {
+	font-size: 16px
+}
+
+#larger {
+	font-size: 32px;
+}
+
+#doorcontainer {
+	text-align:center;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+#doorcontainer img {
+	margin-left: 40px;
+	margin-right: 40px;
+	display: inline-block;
+}
+
+.doorselect {
+	border:3px solid yellow;
+}
+
+.doorreveal {
+	border:3px solid red;
+}
+
+.doorframe {
+	border:3px solid #6395D6;
+}
+
+a img:hover {
+	border: 3px solid blue;
+}
+
+#iframe {
+	padding-top: 10px;
+}
